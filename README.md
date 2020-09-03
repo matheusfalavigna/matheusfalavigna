@@ -14,7 +14,6 @@ ReactJs
 React Native
 
 ### 👦 Contact:
- Instagram Badge
 
 
 
