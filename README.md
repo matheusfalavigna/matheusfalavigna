@@ -18,6 +18,6 @@ React Native
 ### 👦 Contact:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=matheusfalavigna@gmail.com)](mailto:matheusfalavigna@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-Blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfalavigna/)](https://www.linkedin.com/in/matheusfalavigna/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-Hex?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheusfalavigna/)](https://www.instagram.com/matheusfalavigna/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheusfalavigna/)](https://www.instagram.com/matheusfalavigna/)
 
 
