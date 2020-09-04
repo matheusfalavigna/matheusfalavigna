@@ -14,7 +14,7 @@ React Native
 ### 👦 Contact:
 
 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=matheusfalavigna@gmail.com)](mailto:matheusfalavigna@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-matheusfalavigna@gmail.com-000000cc?style=flat-square&logo=Gmail&logoColor=white&link=matheusfalavigna@gmail.com)](mailto:matheusfalavigna@gmail.com)
 
 
 
