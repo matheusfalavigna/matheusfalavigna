@@ -18,6 +18,8 @@ Studying and practicing to become a fron-end and future full-stack developer
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+
+
 ### 👦 Contact:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=matheusfalavigna@gmail.com)](mailto:matheusfalavigna@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-Blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfalavigna/)](https://www.linkedin.com/in/matheusfalavigna/) 
