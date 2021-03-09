@@ -1,27 +1,28 @@
-# Hello
-My name is Matheus Falavigna, I'm from Brazil
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
 
-I'm a student of Computer Science
+<p align="left">
+  Olá meu nome é Matheus, sou <strong>Estagiário de Sistemas</strong>. Estou disponível para trabalho, caso precise contratar entre em contato.
+</p>
 
-### 💻 Objective:
-Studying and practicing to become a fron-end developer
+<p align="left">
+  🦄 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, Node, Typescript, PostgreSQL.</strong>
+</p>
 
-### 📚 Studying: 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, GitHub.</strong>
+</p>
 
-<br />
+<p align="left">
+  💌 Contato: ⤵️
+</p>
 
-### 👦 Contact:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-FA0101?style=flat-square&logo=Gmail&logoColor=white&link=matheusfalavigna@gmail.com)](mailto:matheusfalavigna@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-023DE3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfalavigna/)](https://www.linkedin.com/in/matheusfalavigna/) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/matheusfalavigna/)](https://www.instagram.com/matheusfalavigna/)
+<p align="left">
+  <a href="https://www.instagram.com/matheusfalavigna/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
 
+  <a href="https://www.linkedin.com/in/matheusfalavigna/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 
+  <a href="https://www.linkedin.com/in/matheusfalavigna/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
+</p>
