@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
 
 <p align="left">
-  Olá meu nome é Matheus, sou <strong>Estagiário de Sistemas</strong>. Estou disponível para trabalho, caso precise contratar entre em contato.
+  Olá meu nome é Matheus, sou <strong>Estagiário de Sistemas</strong>. Estou disponível para trabalho, estudando para se tornar um <strong>Desenvolvedor Front-End<strong/>.
 </p>
 
 <p align="left">
@@ -22,7 +22,4 @@
 
   <a href="https://www.linkedin.com/in/matheusfalavigna/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
-  <a href="https://www.linkedin.com/in/matheusfalavigna/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
 </p>
