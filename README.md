@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, Node, Typescript, PostgreSQL.</strong>
+  👻 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, Node, Typescript, PostgreSQL.</strong>
 </p>
 
 <p align="left">
