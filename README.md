@@ -6,6 +6,7 @@
 
 <p align="left">
   👻 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, Node, Typescript, PostgreSQL.</strong>
+  <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg""/></a>
 </p>
 
 <p align="left">
