@@ -15,11 +15,16 @@
   <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"/></a>
   <img src="https://xesque.rocketseat.dev/platform/tech/node.svg"/></a>
   <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"/></a>
-  <img src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"/></a> 
 </p>
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode, GitHub.</strong>
+</p>
+
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
+<img src="https://image.flaticon.com/icons/png/512/25/25231.png"/></a> 
 </p>
 
 <p align="left">
