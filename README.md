@@ -5,8 +5,17 @@
 </p>
 
 <p align="left">
-  👻 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, Node, Typescript, PostgreSQL.</strong>
-  <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg""/></a>
+  👻 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, Typescript, PostgreSQL.</strong>
+</p>
+
+<p align="left">
+  <img src="https://xesque.rocketseat.dev/platform/tech/html5.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/css3.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/node.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg"/></a>
+  <img src="https://xesque.rocketseat.dev/platform/tech/postgresql.svg"/></a>
 </p>
 
 <p align="left">
