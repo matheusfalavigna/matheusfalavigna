@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/></a>
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png"/></a> 
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/matheusfalavigna/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
 
   <a href="https://www.linkedin.com/in/matheusfalavigna/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
