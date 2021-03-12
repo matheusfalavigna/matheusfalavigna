@@ -27,10 +27,6 @@
 </p>
 
 <p align="left">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/96px-Visual_Studio_Code_1.35_icon.svg.png"/></a> 
-</p>
-
-<p align="left">
   <a href="https://www.instagram.com/matheusfalavigna/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
 
