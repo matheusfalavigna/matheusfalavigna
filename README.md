@@ -23,11 +23,6 @@
 </p>
 
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/></a>
-<img src="https://image.flaticon.com/icons/png/512/25/25231.png"/></a> 
-</p>
-
-<p align="left">
   💌 Contato: ⤵️
 </p>
 
