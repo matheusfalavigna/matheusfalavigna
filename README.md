@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
 
 <p align="left">
-  Olá meu nome é Matheus, sou <strong>Estagiário de Desenvolvimento</strong>. Tenho objetivo de me tornar um <strong>Desenvolvedor Front-End</strong> e atualmente estou estudando para isso.
+  Olá meu nome é Matheus, sou <strong>Desenvolvedor Full Stack Junior</strong>. Tenho objetivo de me tornar um <strong>Desenvolvedor Front-End</strong> e atualmente estou estudando para isso.
 </p>
 
 <p align="left">
