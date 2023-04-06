@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador matheus">
 
 <p align="left">
-  Olá meu nome é Matheus, sou <strong>Desenvolvedor Full Stack Junior</strong>. Tenho objetivo de me tornar um <strong>Desenvolvedor Front-End</strong> e atualmente estou estudando para isso.
+<strong>Desenvolvedor Full Stack Junior</strong> (com interesse em me especializar e atuar como <strong>Desenvolvedor Front-end</strong>), Graduando em Ciências da Computação. Atuação no desenvolvimento de software tanto Back-end, utilizando Node.Js, TypeScript e Nest.Js, quanto Front-end, utilizando React.Js e Next.Js, nos micro serviços da empresa.
 </p>
 
 <p align="left">
-  👻 Habilidades/Estudo: <strong>HTML, CSS, JavaScript, ReactJS, NodeJS, Typescript, PostgreSQL.</strong>
+  👻 Habilidades/Estudo: <strong>React.js, Node.js, Next.js, Nest.js, TypeScript, JavaScript, Git, GitFlow</strong>
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, GitHub.</strong>
+  💼 Ferramentas: <strong>VSCode, GitHub, Gitlab, Azure DevOps, Trello, Insomnia, Postman.</strong>
 </p>
 
 <p align="left">
